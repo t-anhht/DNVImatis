@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ae7e022b-c2e0-4e5b-a2a9-8d2cc0927e0e",
+    "name": "Basic Package",
+    "code": "Basic",
+    "description": "10 health check-up tems",
+    "price": 99.99
+  },
+  {
+    "id": "7033768d-3ccf-4638-87df-751178596375",
+    "name": "Standard Package",
+    "code": "Standard",
+    "description": "15 health check-up items",
+    "price": 129.99
+  },
+  {
+    "id": "0dee5549-bbfe-4a1a-9c27-30bbda3df355",
+    "name": "Advanced Package",
+    "code": "Advanced",
+    "description": "20 health check-up items",
+    "price": 149.99
+  }
+]

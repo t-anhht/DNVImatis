@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ff761671-2797-4c02-b436-43e9cfadb265",
+    "code": "IMT_Basic_6_4",
+    "customerName": "IMT Company",
+    "customerCode": "IMT",
+    "description": "Get a 6 of 4 for Basic Package",
+    "packageType": "Basic",
+    "block": 6,
+    "discountByPackage": 2
+  },
+  {
+    "id": "f27fa6e1-de71-4193-96b9-81c0b7ced8e0",
+    "code": "FWH_Advanced_Dis10$",
+    "customerName": "FWH Company",
+    "customerCode": "FWH",
+    "description": "On Advanced Package get the price drops to $139.99",
+    "packageType": "Advanced",
+    "block": 1,
+    "discountByAmount": 10
+  },
+  {
+    "id": "40f544af-7b32-46d1-92ee-9efdf2337c00",
+    "code": "DNV_Standard_10_5",
+    "customerName": "DNV Company",
+    "customerCode": "DNV",
+    "description": "Get a 10 of 5 for Standard Package",
+    "packageType": "Standard",
+    "block": 10,
+    "discountByPackage": 5
+  }
+]
